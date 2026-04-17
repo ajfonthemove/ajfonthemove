@@ -9,7 +9,8 @@ Currently working on:
 My open-source projects: 
 <br />
 <br />
-👨‍💻 <a href="https://github.com/ajfonthemove/HoloTerm">HoloTerm </a>, the terminal your Mac deserves
+👨‍💻 <a href="https://github.com/ajfonthemove/HoloTerm">HoloTerm </a>, the terminal your Mac deserves <br />
+📈 <a href="https://github.com/ajfonthemove/hoverstock">HoverStock </a>, A floating, always-on-top macOS stock ticker with ML-backed trading signals, technical analysis, and real-time streaming <br />
 
 My personal projects over the last year or so:
 - <ins> AI-powered policy intelligence platform </ins>: i.e., industry leader quality for the price of my AI subscription.
