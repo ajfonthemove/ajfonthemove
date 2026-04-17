@@ -6,8 +6,8 @@ Currently working on:
 - Advising folks at <a href="www.friestrategic.com">friesstrategic.com</a>
 - My own AI-startup 🤫
 
-My open-source projects:
-👨‍💻 HoloTerm, the terminal your mac deserves.
+My open-source projects: <br />
+👨‍💻 HoloTerm, the terminal your Mac deserves: https://github.com/ajfonthemove/HoloTerm
 
 My personal projects over the last year or so:
 - <ins> AI-powered policy intelligence platform </ins>: i.e., industry leader quality for the price of my AI subscription.
