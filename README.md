@@ -9,7 +9,7 @@ Currently working on:
 My open-source projects: 
 <br />
 <br />
-👨‍💻 HoloTerm, the terminal your Mac deserves: https://github.com/ajfonthemove/HoloTerm
+👨‍💻 <a href="https://github.com/ajfonthemove/HoloTerm">HoloTerm </a>, the terminal your Mac deserves
 
 My personal projects over the last year or so:
 - <ins> AI-powered policy intelligence platform </ins>: i.e., industry leader quality for the price of my AI subscription.
