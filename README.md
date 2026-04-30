@@ -10,7 +10,7 @@ My open-source projects:
 <br />
 <br />
 ## Creative
-🖼️ <a href="https://github.com/ajfonthemove/illustrator-mcp"> Illustrator MCP bridge </a>
+🖼️ <a href="https://github.com/ajfonthemove/illustrator-mcp"> Illustrator MCP bridge </a>, An open bridge between Adobe Illustrator and AI
 <br />
 ## Developing
 👨‍💻 <a href="https://github.com/ajfonthemove/HoloTerm">HoloTerm </a>, the terminal your Mac deserves <br />
