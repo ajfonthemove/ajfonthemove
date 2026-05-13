@@ -9,10 +9,10 @@ Currently working on:
 My open-source projects: 
 <br />
 ## 🖼️ Creative
-<a href="https://github.com/ajfonthemove/illustrator-mcp"> Illustrator MCP bridge </a>, An open bridge between Adobe Illustrator and AI </ br>
-<a href="https://github.com/ajfonthemove/after-effects-mcp"> After Effects MCP bridge </a>, An open bridge between After Effects and AI </ br>
-<a href="https://github.com/ajfonthemove/indesign-mcp"> Indesign MCP bridge </a>, An open bridge between Indesign and AI </ br>
-<a href="https://github.com/ajfonthemove/illustrator-mcp"> Illustrator MCP bridge </a> An open bridge between Illustrator and AI </ br>
+<a href="https://github.com/ajfonthemove/illustrator-mcp"> Illustrator MCP bridge </a>, An open bridge between Adobe Illustrator and AI<br />
+<a href="https://github.com/ajfonthemove/after-effects-mcp"> After Effects MCP bridge </a>, An open bridge between After Effects and AI<br />
+<a href="https://github.com/ajfonthemove/indesign-mcp"> Indesign MCP bridge </a>, An open bridge between Indesign and AI <br />
+<a href="https://github.com/ajfonthemove/illustrator-mcp"> Illustrator MCP bridge </a> An open bridge between Illustrator and AI <br />
 <br />
 ## 👨‍💻 Developing
 <a href="https://github.com/ajfonthemove/HoloTerm">HoloTerm </a>, the terminal your Mac deserves <br />
