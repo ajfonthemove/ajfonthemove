@@ -8,7 +8,6 @@ Currently working on:
 
 My open-source projects: 
 <br />
-<br />
 ## Creative
 🖼️ <a href="https://github.com/ajfonthemove/illustrator-mcp"> Illustrator MCP bridge </a>, An open bridge between Adobe Illustrator and AI
 <br />
