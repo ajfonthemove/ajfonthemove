@@ -3,8 +3,7 @@
 Don't believe in life motto's, but if I did, "Why not?" would be mine. Usually just tinkering with solutions to annoyances. Decided maybe I should have an actual GitHub under my name instead of [insert randomly generated name].
 
 Currently working on:
-- Advising folks at <a href="www.friestrategic.com">friesstrategic.com</a>
-- My own AI-startup 🤫
+- <a href="www.eurekasystems.ai">eurekasystems.ai</a>
 
 My open-source projects: 
 <br />
