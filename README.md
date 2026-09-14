@@ -6,9 +6,11 @@ Building **[Eureka Systems](https://eurekasystems.ai)** — learning-capable sys
 
 ## 🧱 Why Eureka Systems
 
-I ran a 13-agent team in OpenClaw before starting Eureka Systems. Agents polling subordinate agents, most of every payload routing metadata, most of every context window holding work that belonged somewhere else.
+Business spend on AI tokens went up sixfold between January 2025 and April 2026 while the price of a token fell by half (Ramp). Smarter models and longer-thinking agents make that arithmetic worse, not better. Every wrong turn costs more than the last one did.
 
-One agent doing many tasks is wasteful in every direction — tokens, context, latency, accuracy. Teams built around how the work actually decomposes are not. That is the architecture we build on, and it came out of running the fleet rather than modelling it.
+I ran a 13-agent team in OpenClaw. What it showed me was not a problem with agents, it was how much is still sitting on the table. When agents forget less, when teams are governable, and when every turn costs less, this stops being a productivity tool and becomes the transformational operating layer a business actually runs on.
+
+That is what we are building toward.
 
 ## 🔧 Upstream
 
