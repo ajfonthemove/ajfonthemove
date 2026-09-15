@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Don't believe in mottos, but if I did, "Why not?" would be mine.
-
 Building **[Eureka Systems](https://eurekasystems.ai)** — learning-capable systems from the model to the edge.
 
 ## 🧱 Why Eureka Systems
