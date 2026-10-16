@@ -6,10 +6,6 @@ Building **[Eureka Systems](https://eurekasystems.ai)** — learning-capable sys
 
 Business spend on AI tokens went up sixfold between January 2025 and April 2026 while the price of a token fell by half (Ramp). Smarter models and longer-thinking agents make that arithmetic worse, not better. Every wrong turn costs more than the last one did.
 
-I ran a 13-agent team in OpenClaw. What it showed me was not a problem with agents, it was how much is still sitting on the table. When agents forget less, when teams are governable, and when every turn costs less, this stops being a productivity tool and becomes the transformational operating layer a business actually runs on.
-
-That is what we are building toward.
-
 ## 🔧 Upstream
 
 <a href="https://github.com/ajfonthemove/llama.cpp-shared-kv-quant-fix">llama.cpp shared-KV quant fix</a>, Gemma 4 E2B/E4B crash the quantizer below 3 bits. Found it, fixed it, wrote the test.<br />
