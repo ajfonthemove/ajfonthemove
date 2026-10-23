@@ -21,6 +21,9 @@ Open bridges between AI and <a href="https://github.com/ajfonthemove/illustrator
 <a href="https://github.com/ajfonthemove/HoloTerm">HoloTerm</a>, the terminal your Mac deserves<br />
 <a href="https://github.com/ajfonthemove/hoverstock">HoverStock</a>, a floating, always-on-top macOS stock ticker with ML-backed trading signals, technical analysis and real-time streaming<br />
 
+## 🔧 Agent Tools
+<a href="https://github.com/ajfonthemove/fetch-em-all">Fetch 'Em ALl</a>, no walls, no problems.
+
 ## 📦 Also kicking around
 
 - <ins>AI-powered policy intelligence platform</ins>: i.e., industry leader quality for the price of my AI subscription.
