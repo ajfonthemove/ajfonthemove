@@ -22,7 +22,7 @@ Open bridges between AI and <a href="https://github.com/ajfonthemove/illustrator
 <a href="https://github.com/ajfonthemove/hoverstock">HoverStock</a>, a floating, always-on-top macOS stock ticker with ML-backed trading signals, technical analysis and real-time streaming<br />
 
 ## 🔧 Agent Tools
-<a href="https://github.com/ajfonthemove/fetch-em-all">Fetch 'Em ALl</a>, no walls, no problems.
+<a href="https://github.com/ajfonthemove/fetch-em-all">Fetch 'Em All</a>, no walls, no problems.
 
 ## 📦 Also kicking around
 
